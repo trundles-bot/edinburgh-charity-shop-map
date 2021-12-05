@@ -8,10 +8,8 @@ This file uses [Trebuchet MS](https://docs.microsoft.com/en-us/typography/font-l
 ## Line information
 
 ### Stockbridge
-RGB colour
-: 234 155 0
-Length
-: 0.96km
+**RGB colour** `234 155 0`
+**Length** 0.96km
 
 #### Listing of streets from centre
 - Wemyss Place
@@ -21,10 +19,8 @@ Length
 - Raeburn Place
 
 ### Corstorphine annex
-RGB colour
-: 83 174 255
-Length
-: 1.07km
+**RGB colour** `83 174 255`
+**Length** 1.07km
 
 #### Listing of streets from centre
 - Saint John's Road
@@ -32,10 +28,8 @@ Length
 - Gylemuir Road
 
 ### Dalry
-RGB colour
-: 212 0 0
-Length
-: 1.16km
+**RGB colour** `212 0 0`
+**Length** 1.16km
 
 #### Listing of streets from centre
 - Shandwick Place
@@ -43,10 +37,8 @@ Length
 - Dalry Road
 
 ### Leith
-RGB colour
-: 0 135 0
-Length
-: 2.33km
+**RGB colour** `0 135 0`
+**Length** 2.33km
 
 #### Listing of streets from centre
 - York Place
@@ -60,10 +52,8 @@ Length
 - Duke Street
 
 ### Bruntsfield
-RGB colour
-: 0 0 185
-Length
-: 1.62km
+**RGB colour** `0 0 185`
+**Length** 1.62km
 
 #### Listing of streets from centre
 - Lothian Road
@@ -73,16 +63,14 @@ Length
 - Bruntsfield Place
 
 ### Bruntsfield + Morningside
-Length
-: 2.89km
+**Length**  2.89km
+
 #### Listing of streets from Bruntsfield
 - Morningside Road
 
 ### University Loop
-RGB colour
-: 145 0 70
-Length
-: 3.88km
+**RGB colour** `145 0 70`
+**Length** 3.88km
 
 #### Listing of streets from centre
 - North Bridge
