@@ -1,7 +1,7 @@
 # Edinburgh Charity Shop Map
 A London-tube style map shoping Edinburgh charity shop locations. Not intented to be definative!
 
-Note: this map is based on the grid, so remember to turn it on, using `View` > `Page Grid`. Each line is a simple stroke, but is rounded (when I remember) using `Path` > `Path Effects` > (select line) > (plus sign at the bottom of the Path Effects pane) > `Corners (Fillet/Chamfer)` > Radius (field) > `15` (I've used `20` in the past, but this doesn't match the curve of the Princes Street - Queen Street block). I tend to redraw the lines, if I need to change them.
+Note: this map is based on the grid, so remember to turn it on, using `View` > `Page Grid`. Each line is a simple stroke, but is rounded (when I remember) using `Path` > `Path Effects` > (select line) > (plus sign at the bottom of the Path Effects pane) > `Corners (Fillet/Chamfer)` > Radius (field) > `15`. I tend to redraw the lines, if I need to change them.
 
 Note that measurements are in **pixels**. Inkscape loves to swich to millimeters, which can really confuse things.
 
