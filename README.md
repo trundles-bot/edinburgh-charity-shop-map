@@ -96,3 +96,16 @@ This file uses [Trebuchet MS](https://docs.microsoft.com/en-us/typography/font-l
 - Bank Street
 - North Bank Street
 - The Mound
+
+### Portobello
+**RGB colour** `0 135 0`
+**Length** 5.35km
+
+#### Listing of streets from centre
+- York Place
+- Leith Walk
+- London Road
+- Portobello Road
+- Moira Terrace
+- Inchview Terrace
+- Portobello High Street
