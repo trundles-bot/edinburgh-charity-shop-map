@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="2.8800315"
-     inkscape:cx="130.55413"
-     inkscape:cy="253.29584"
+     inkscape:zoom="4.0729796"
+     inkscape:cx="170.88227"
+     inkscape:cy="372.57736"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="-9"
@@ -267,7 +267,7 @@
          x="5.3613067"
          y="105.78964">Portobello <tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
-   id="tspan3691-8-8-6">5.35km</tspan></tspan></text>
+   id="tspan3691-8-8-6">4.72km</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:1.76389px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -351,21 +351,16 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
          x="5.3691049"
          y="108.49393"
-         id="tspan4337">From centre: York Place, Leith Walk, London Road,</tspan><tspan
+         id="tspan4341">From centre: London Road, Portobello Road, Moira Terrace,</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
          x="5.3691049"
          y="110.70751"
-         id="tspan4341">Portobello Road, Moira Terrace, Inchview Terrace,</tspan><tspan
+         id="tspan6206">Inchview Terrace, Portobello High Street</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
          x="5.3691049"
          y="112.9211"
-         id="tspan6206">Portobello High Street</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="5.3691049"
-         y="115.13469"
          id="tspan4343" /></text>
     <text
        xml:space="preserve"
@@ -447,17 +442,17 @@
          id="path1666-5-0-7" />
     </g>
     <path
-       style="fill:none;stroke:#008300;stroke-width:0.52916698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833395,0.52916698;stroke-opacity:1;stroke-dashoffset:0"
-       d="M 5.2916666,101.86458 H 52.916666"
+       style="fill:none;stroke:#c13ace;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5.2916666,101.86458 H 55.517"
        id="path1311-8-5-9-04"
        sodipodi:nodetypes="cc" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008300;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;opacity:1;stop-opacity:1"
        d="m 5.2916666,100.54166 v 2.64584"
        id="path1664-4-7-2-2" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008300;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 52.916666,100.54166 v 2.64584"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 55.5625,100.54166 v 2.64584"
        id="path1666-5-0-7-97" />
     <path
        style="fill:none;stroke:#910046;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
