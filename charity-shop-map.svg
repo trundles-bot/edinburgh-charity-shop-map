@@ -30,9 +30,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.70710685"
-     inkscape:cx="936.20928"
-     inkscape:cy="692.25747"
+     inkscape:zoom="2.0000002"
+     inkscape:cx="543.99995"
+     inkscape:cy="1012.2499"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="-9"
@@ -927,17 +927,6 @@
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-122.06039"
-       y="145.70197"
-       id="text19055-7-1-4-3-7-0-0-2"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-74-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-122.06039"
-         y="145.70197">?</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
        x="-127.25095"
        y="150.9201"
        id="text19055-7-1-4-3-7-0-0-2-6"><tspan
@@ -1303,10 +1292,6 @@
        style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m -127.28349,135.02545 c 2.64584,2.64584 2.64584,2.64584 2.64584,2.64584"
        id="path3707-6-4-8" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -127.2835,140.31712 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
-       id="path3707-6-4-8-1" />
     <path
        style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m -132.57516,145.60879 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
