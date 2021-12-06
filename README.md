@@ -98,12 +98,10 @@ This file uses [Trebuchet MS](https://docs.microsoft.com/en-us/typography/font-l
 - The Mound
 
 ### Portobello
-**RGB colour** `0 135 0`
-**Length** 5.35km
+**RGB colour** `193 58 206`
+**Length** 4.72km
 
 #### Listing of streets from centre
-- York Place
-- Leith Walk
 - London Road
 - Portobello Road
 - Moira Terrace
