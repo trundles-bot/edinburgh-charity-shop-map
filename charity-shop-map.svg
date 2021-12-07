@@ -2,1820 +2,500 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1850"
-   height="1300"
-   viewBox="0 0 489.47918 343.95831"
+   width="240"
+   height="450"
+   viewBox="0 0 63.499999 119.0625"
    version="1.1"
-   id="svg847"
+   id="svg3624"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="charity-shop-map.svg"
-   inkscape:export-filename="C:\Users\Ross\Desktop\Charity Shop map\map.png"
-   inkscape:export-xdpi="100.4"
-   inkscape:export-ydpi="100.4"
+   sodipodi:docname="chart-data.svg"
+   inkscape:export-filename="C:\Users\Ross\Desktop\Charity Shop map\map-data.png"
+   inkscape:export-xdpi="480"
+   inkscape:export-ydpi="480"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview849"
+     id="namedview3626"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="2.0000002"
-     inkscape:cx="543.99995"
-     inkscape:cy="1012.2499"
+     inkscape:zoom="4.0729796"
+     inkscape:cx="170.88227"
+     inkscape:cy="372.57736"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="true"
-     inkscape:lockguides="true"
-     units="px"
-     width="1000px"
-     height="1000px"
-     inkscape:snap-global="true">
+     units="px">
     <inkscape:grid
        type="xygrid"
-       id="grid943"
-       originx="94.621887"
-       originy="-4.9381161" />
+       id="grid3708" />
   </sodipodi:namedview>
   <defs
-     id="defs844">
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect5601"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="15"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect4492"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="15"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect3904"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,3.96875,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="15"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect3502"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="15"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2511"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="15"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1523"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="15"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect7006"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,2.5928993,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="15"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1342"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="15"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1340"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.96875,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="15"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1104"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="20"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect15091"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="20"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2712"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="20"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2527"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="20"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2343"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="20"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2160"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="20"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1978"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="20"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2628"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="10"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2174"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="10"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1854"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="10"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2968"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="10"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2557"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="10"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2057"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="10"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1141"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="10"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1140"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="10"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-  </defs>
+     id="defs3621" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(293.40908,116.66682)">
+     id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-185.24556"
-       y="190.35765"
-       id="text19055-7-1-4-3-7-0-7-4-7-8"><tspan
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.2528028"
+       y="4.8093758"
+       id="text2810"><tspan
          sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-4-7-7-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-185.24556"
-         y="190.35765">Chest Heart &amp; Stroke</tspan></text>
+         id="tspan2808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="5.2528028"
+         y="4.8093758">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="15.891418"
+       y="4.7742705"
+       id="text2810-3"><tspan
+         sodipodi:role="line"
+         id="tspan2808-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="15.891418"
+         y="4.7742705">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="26.527411"
+       y="4.7891984"
+       id="text2810-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan2808-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="26.527411"
+         y="4.7891984">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.018551"
+       y="4.7540936"
+       id="text2810-3-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan2808-6-1-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="37.018551"
+         y="4.7540936">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="47.639614"
+       y="4.7540936"
+       id="text2810-3-6-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan2808-6-1-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="47.639614"
+         y="4.7540936">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.158524"
+       y="4.8000278"
+       id="text2810-3-6-1-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan2808-6-1-2-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="58.158524"
+         y="4.8000278">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.2591863"
+       y="15.86007"
+       id="text11257"><tspan
+         sodipodi:role="line"
+         id="tspan11255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2591863"
+         y="15.86007">Stockbridge line <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
+   id="tspan6182">0.96km</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.1819229"
+       y="29.11204"
+       id="text11257-6"><tspan
+         sodipodi:role="line"
+         id="tspan11255-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.1819229"
+         y="29.11204">Corstorphine annex <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
+   id="tspan6182-9">1.07km</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.76389px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.2775311"
+       y="18.524248"
+       id="text11257-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2775311"
+         y="18.524248"
+         id="tspan2915">From centre: Wemyss Place, Gloucester Lane,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2775311"
+         y="20.737837"
+         id="tspan2921">Gloucester Street, Kerr Street, Raeburn Place</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.76389px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.2854052"
+       y="31.776217"
+       id="text11257-1-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2854052"
+         y="31.776217"
+         id="tspan6564">From centre: Saint John's Road, Meadow Place Road,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2854052"
+         y="33.989803"
+         id="tspan6566">Gylemuir Road</tspan></text>
+    <g
+       id="g937">
+      <path
+         style="fill:none;stroke:#ea9b00;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 5.2916666,11.90625 H 15.345833"
+         id="path1311"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 5.2916666,10.583333 v 2.645834"
+         id="path1664" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 15.345833,10.583332 v 2.645834"
+         id="path1666" />
+    </g>
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -190.84969,198.5409 5.29166,5.29167"
-       id="path3707-6-4-8-1-0-7-2-8-8-9-9-3"
+       style="fill:none;stroke:#53aeff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.2916666,25.122917 H 16.246"
+       id="path1311-9"
        sodipodi:nodetypes="cc" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       id="rect3868"
-       width="66.145836"
-       height="21.166666"
-       x="-92.990112"
-       y="15.986598"
-       inkscape:path-effect="#path-effect3904"
-       sodipodi:type="rect" />
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#53aeff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 5.2916666,23.8 v 2.645834"
+       id="path1664-6" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -26.844288,37.153266 6.667517,2e-6 a 3.9687511,3.9687511 45.000008 0 1 3.96875,3.968751 V 161.56037 a 2.5928993,2.5928993 135 0 1 -2.592899,2.5929 h -25.188351 a 3.9716914,3.9716914 44.978776 0 1 -3.97169,-3.96875 l -0.04705,-63.500005 a 9.5914585,9.5914585 67.478777 0 0 -2.80927,-6.775079 l -7.616506,-7.616507 a 9.5814106,9.5814106 67.500001 0 1 -2.80633,-6.77508 l 0,-38.364583"
-       id="path6307"
-       inkscape:path-effect="#path-effect7006"
-       inkscape:original-d="m -26.844288,37.153266 10.636267,3e-6 V 164.15327 h -31.75 L -48.010947,92.715766 -61.240113,79.486599 V 37.153266"
-       sodipodi:nodetypes="ccccccc" />
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#53aeff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 16.245583,23.799999 v 2.645834"
+       id="path1666-2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.2846136"
+       y="42.311878"
+       id="text11257-5"><tspan
+         sodipodi:role="line"
+         id="tspan11255-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2846136"
+         y="42.311878">Dalry line <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
+   id="tspan3719">1</tspan><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
+   id="tspan6182-6">.16km</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.0124679"
+       y="52.96542"
+       id="text11257-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan11255-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.0124679"
+         y="52.96542">Leith line <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
+   id="tspan3691">2</tspan><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
+   id="tspan3719-6">.33km</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.2788277"
+       y="68.674881"
+       id="text11257-5-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan11255-1-7-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2788277"
+         y="68.674881">Bruntsfield line <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
+   id="tspan3691-8">1.62km</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.2603383"
+       y="84.614021"
+       id="text11257-5-6-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan11255-1-7-5-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2603383"
+         y="84.614021">University Loop <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
+   id="tspan3691-8-8">3.88km</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.76389px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.2204442"
+       y="45.011166"
+       id="text11257-1-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2204442"
+         y="45.011166"
+         id="tspan5060">From centre: Shandwick Place, Atholl Place, Dalry Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.76389px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.2133913"
+       y="55.614674"
+       id="text11257-1-0-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2133913"
+         y="55.614674"
+         id="tspan1434">From centre: York Place, Leith Walk, Gayfield Place,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2133913"
+         y="57.828262"
+         id="tspan1442">Haddington Place, Croall Place, Albert Place, Leith Walk,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2133913"
+         y="60.041851"
+         id="tspan1444">Great Junction Street, Duke Street</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.2133913"
+         y="62.25544"
+         id="tspan1446" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.76389px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.1764126"
+       y="87.327553"
+       id="text11257-1-0-2-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.1764126"
+         y="87.327553"
+         id="tspan1766">From centre: North Bridge, South Bridge, Nicholson Street,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.1764126"
+         y="89.541138"
+         id="tspan1772">Saint Patrick Street, Clerk Street, South Clerk Street,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.1764126"
+         y="91.75473"
+         id="tspan1780">Newington Road, Salisbury Place, Causewayside,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.1764126"
+         y="93.968315"
+         id="tspan1788">Hope Park Crescent, Buccleuch Street, Chapter Street,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.1764126"
+         y="96.181908"
+         id="tspan1794">Crichton Street, Charles Street, Bristo Square, Teviet Place,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.1764126"
+         y="98.395493"
+         id="tspan1800">Forest Road, George IV Bridge, Bank Street, North Bank</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.1764126"
+         y="100.60909"
+         id="tspan6575">Street, The Mound</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.76389px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.3692493"
+       y="71.443596"
+       id="text11257-1-0-2-7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.3692493"
+         y="71.443596"
+         id="tspan6685">From centre: Lothian Road, Home Street, Leven Street,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.3692493"
+         y="73.657181"
+         id="tspan6689">Gillespie Place, Bruntsfield Place.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.3692493"
+         y="75.870773"
+         id="tspan7542">Morningside extension <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
+   id="tspan2562">2.89km</tspan>: Morningside Road</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.3692493"
+         y="78.084358"
+         id="tspan1446-4" /></text>
+    <g
+       id="g6179"
+       transform="translate(-5e-8,13.2525)">
+      <path
+         style="fill:none;stroke:#d40000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 5.2916666,25.135418 H 16.646"
+         id="path1311-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 5.2916666,23.812501 v 2.645834"
+         id="path1664-4" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 16.642292,23.812499 v 2.645834"
+         id="path1666-5" />
+    </g>
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -185.59428,71.549099 31.5895,-31.589503 a 9.5814095,9.5814095 157.5 0 1 6.77508,-2.80633 h 54.239587"
-       id="path1808"
-       inkscape:path-effect="#path-effect2511"
-       inkscape:original-d="m -185.59428,71.549099 34.39583,-34.395833 h 58.208337" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00927;stroke-opacity:1"
-       id="path1254-7-1"
-       cx="-26.741806"
-       cy="37.129623"
-       rx="2.6703639"
-       ry="2.6703641" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00927;stroke-opacity:1"
-       id="path1254-7-1-9"
-       cx="-61.137646"
-       cy="37.12962"
-       rx="2.6703639"
-       ry="2.6703641" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="36.652954"
-       y="-4.8768783"
-       id="text3259-3"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="36.652954"
-         y="-4.8768783">Barnardo's</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;letter-spacing:-0.264583px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-21.270082"
-       y="127.01781"
-       id="text3259-3-3-7"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-9-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-21.270082"
-         y="127.01781">Cats</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-21.534664"
-         y="132.66225"
-         id="tspan7644">Protection</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;letter-spacing:-0.264583px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-21.524122"
-       y="147.62415"
-       id="text3259-3-3-7-8"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-21.524122"
-         y="147.62415"
-         id="tspan7644-1">Chest,</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-21.524122"
-         y="153.26859"
-         id="tspan11024">Heart</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-21.788704"
-         y="158.91302"
-         id="tspan8316">and Stroke</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;letter-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-20.909674"
-       y="114.50946"
-       id="text3259-3-3-7-0"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-20.909674"
-         y="114.50946"
-         id="tspan7644-0">Hospices</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-20.909674"
-         y="120.1539"
-         id="tspan5899">Of Hope</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="47.020218"
-       y="-15.639153"
-       id="text3259-3-0"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="47.020218"
-         y="-15.639153"
-         id="tspan12450">All Together Edinburgh</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-151.14664"
-       y="47.80032"
-       id="text3259-6-2-2-0-1"><tspan
-         sodipodi:role="line"
-         id="tspan3257-4-2-7-4-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-151.14664"
-         y="47.80032">Shelter</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-159.51588"
-       y="55.820446"
-       id="text3259-6-2-2-0-1-2"><tspan
-         sodipodi:role="line"
-         id="tspan3257-4-2-7-4-7-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-159.51588"
-         y="55.820446">Save The</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-159.51588"
-         y="62.875996"
-         id="tspan2779">Children</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-180.26534"
-       y="76.480873"
-       id="text3259-6-2-2-0-1-2-1"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-180.26534"
-         y="76.480873"
-         id="tspan2779-7">The Salvation Army</tspan></text>
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#53aeff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -175.01095,13.340767 h -83.34375 a 3.96875,3.96875 135 0 0 -3.96875,3.96875 v 9.260416"
-       id="path2797"
-       inkscape:path-effect="#path-effect3502"
-       inkscape:original-d="m -175.01095,13.340767 h -87.3125 v 13.229166" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-200.98828"
-       y="21.196171"
-       id="text3259-6-2-2-0-1-2-1-5-4"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-200.98828"
-         y="21.196171"
-         id="tspan2779-7-4-5">Shelter</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-238.21756"
-       y="21.383257"
-       id="text3259-6-2-2-0-1-2-1-5-4-4"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-238.21756"
-         y="21.383257"
-         id="tspan2779-7-4-5-9">Cancer Research</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-260.89471"
-       y="33.076298"
-       id="text3259-6-2-2-0-1-2-1-5-4-4-0"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-260.89471"
-         y="33.076298"
-         id="tspan2779-7-4-5-9-3">Cancer Research</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-98.167755"
-       y="87.302979"
-       id="text3259-6-2-2-0-1-2-1-2"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-98.167755"
-         y="87.302979"
-         id="tspan2779-7-9">The Salvation Army</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-111.59885"
-       y="116.14959"
-       id="text3259-6-2-2-0-1-2-1-2-3"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-111.59885"
-         y="116.14959"
-         id="tspan2779-7-9-1">Cancer Research UK</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-119.04018"
-       y="124.58312"
-       id="text3259-6-2-2-0-1-2-1-2-3-5"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-119.04018"
-         y="124.58312"
-         id="tspan2779-7-9-1-9">Birthlink Thrift Shop</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="4.9444342"
-       y="8.2399378"
-       id="text19055-4"><tspan
-         sodipodi:role="line"
-         id="tspan19053-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="4.9444337"
-         y="8.2399378">The Bethany Shop</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="84.105202"
-       y="-29.051733"
-       id="text19055-4-9"><tspan
-         sodipodi:role="line"
-         id="tspan19053-2-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="84.105202"
-         y="-29.051733">The Bethany Shop</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="10.500687"
-       y="0.30243835"
-       id="text19055-4-7"><tspan
-         sodipodi:role="line"
-         id="tspan19053-2-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="10.500689"
-         y="0.30243835">Bethany Books</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="34.200943"
-       y="-21.022417"
-       id="text19055-4-5"><tspan
-         sodipodi:role="line"
-         id="tspan19053-2-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="34.200943"
-         y="-21.022417">British Red Cross</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="23.52474"
-       y="-10.51658"
-       id="text19055-4-5-4"><tspan
-         sodipodi:role="line"
-         id="tspan19053-2-4-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="23.524742"
-         y="-10.51658">Edinburgh Settlement Projects</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="-113.88571"
-       y="45.38966"
-       id="text19055-7-3"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-113.88571"
-         y="45.38966">British</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-113.88571"
-         y="52.473133"
-         id="tspan10263">Heart</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-113.88571"
-         y="59.556606"
-         id="tspan6811">Foundation</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="52.78524"
-       y="-42.021519"
-       id="text19055-7-1"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="52.78524"
-         y="-42.021519">British Heart Foundation</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-169.89"
-       y="47.746288"
-       id="text19055-7-1-4"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-169.89"
-         y="47.746288">British Heart Foundation home store</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-179.96132"
-       y="58.269909"
-       id="text19055-7-1-4-3"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-179.96132"
-         y="58.269909">British Heart Foundation</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-190.40768"
-       y="68.685898"
-       id="text19055-7-1-4-3-7"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-190.40768"
-         y="68.685898">Cats Protection</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-58.69849"
-       y="92.711914"
-       id="text19055-7-1-4-3-7-0"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-58.69849"
-         y="92.711914">Shelter</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-129.76778"
-       y="135.22884"
-       id="text19055-7-1-4-3-7-0-7"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-129.76778"
-         y="135.22884">Shelter</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-161.85805"
-       y="166.81213"
-       id="text19055-7-1-4-3-7-0-7-4"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-4-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-161.85805"
-         y="166.81213">Oxfam</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-169.55527"
-       y="174.46898"
-       id="text19055-7-1-4-3-7-0-7-4-1"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-4-7-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-169.55527"
-         y="174.46898">Oxfam Books</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-177.91374"
-       y="182.56886"
-       id="text19055-7-1-4-3-7-0-7-4-7"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-4-7-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-177.91374"
-         y="182.56886">Marie Curie</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-193.00339"
-       y="198.39778"
-       id="text19055-7-1-4-3-7-0-7-4-7-8-2"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-4-7-7-9-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-193.00339"
-         y="198.39778">Save the Children</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-96.0065"
-       y="119.17038"
-       id="text19055-7-1-4-3-7-0-0"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-74"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-96.0065"
-         y="119.17038">Shelter</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-79.866348"
-       y="47.841103"
-       id="text19055-7-1-4-3-7-0-0-01"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-74-99"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-79.866348"
-         y="47.841103">Zero</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-79.866348"
-         y="54.924576"
-         id="tspan3661">Waste</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-79.866348"
-         y="62.008049"
-         id="tspan3663">Hub<tspan
-   style="font-size:65%;baseline-shift:super"
-   id="tspan13147">3</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-127.25095"
-       y="150.9201"
-       id="text19055-7-1-4-3-7-0-0-2-6"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-74-9-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-127.25095"
-         y="150.9201">Cancer Research</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-135.22527"
-       y="158.71056"
-       id="text19055-7-1-4-3-7-0-0-2-6-2"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-74-9-2-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-135.22527"
-         y="158.71056">Bethany</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-143.25464"
-       y="166.65717"
-       id="text19055-7-1-4-3-7-0-0-2-6-2-8"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-74-9-2-9-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-143.25464"
-         y="166.65717">British Red Cross</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-151.30249"
-       y="174.72324"
-       id="text19055-7-1-4-3-7-0-0-2-6-2-8-2"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-74-9-2-9-4-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-151.30249"
-         y="174.72324">St Colomba's Hospice</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-111.42201"
-       y="134.76962"
-       id="text19055-7-1-4-3-7-0-0-0"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-74-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-111.42201"
-         y="134.76962">Chest Heart &amp; Stroke</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-42.720768"
-       y="140.31519"
-       id="text19055-7-1-4-3-7-0-6"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-42.720768"
-         y="140.31519">Bethany</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="44.795441"
-       y="-31.556829"
-       id="text19055-7-0-0-1"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-3-4-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="44.795441"
-         y="-31.556829">St Columba's Hospice</tspan></text>
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 10.250313,10.694936 7.6044785,8.0491026"
-       id="path1316" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 15.541979,5.4032692 12.896145,2.757436"
-       id="path1316-3" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 28.771146,-7.825898 -2.645834,-2.645833"
-       id="path1316-3-4" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 34.062812,-7.825897 31.416978,-10.47173"
-       id="path1316-3-2" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 44.642808,-18.415748 -2.645834,-2.645833"
-       id="path1316-3-2-3" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 39.35448,-18.409231 -2.645834,-2.645833"
-       id="path1316-3-2-2" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 49.937813,-28.992564 -2.645834,-2.645833"
-       id="path1316-3-2-2-5" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -108.79597,37.121289 c 0,-2.645833 0,-2.645833 0,-2.645833"
-       id="path1499" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -92.990113,37.153266 v 64.822914 a 9.5814081,9.5814081 112.5 0 1 -2.80633,6.77508 l -21.006177,21.00617"
-       id="path7290"
-       inkscape:path-effect="#path-effect1523"
-       inkscape:original-d="m -92.990113,37.153266 v 68.791664 l -23.812507,23.8125" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -114.05432,39.775456 c 0,-2.645833 0,-2.645833 0,-2.645833"
-       id="path1499-1" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="-108.91319"
-       y="31.468805"
-       id="text3975"><tspan
-         sodipodi:role="line"
-         id="tspan3973"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-108.91319"
-         y="31.468805">Barnardo's</tspan></text>
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -156.38765,42.421288 c 2.64583,2.645834 2.64583,2.645834 2.64583,2.645834"
-       id="path1011" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -166.97099,47.712955 5.29167,5.291667"
-       id="path1011-3"
+       style="fill:none;stroke:#0000b9;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.2916666,64.846249 H 21.986875"
+       id="path1311-8-5"
        sodipodi:nodetypes="cc" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -188.13766,68.879622 5.29167,5.291667"
-       id="path1011-3-0"
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 5.2916666,63.523332 v 2.645834"
+       id="path1664-4-7" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 22.013333,63.523332 v 2.645834"
+       id="path1666-5-0" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 36.300833,63.523333 v 2.645834"
+       id="path1666-5-0-8" />
+    <g
+       id="g3265-1"
+       transform="translate(-5e-8,13.2525)">
+      <path
+         style="fill:none;stroke:#008300;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 5.2916666,35.71875 H 30.823958"
+         id="path1311-8-5-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008300;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 5.2916666,34.395833 v 2.645834"
+         id="path1664-4-7-2" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008300;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 30.823958,34.395833 v 2.645834"
+         id="path1666-5-0-7" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.3613067"
+       y="108.43548"
+       id="text11257-5-6-1-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan11255-1-7-5-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.3613067"
+         y="108.43548">Portobello Line <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic'"
+   id="tspan3691-8-8-6">4.72km</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.76389px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.3691049"
+       y="111.13976"
+       id="text11257-1-0-2-2-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.3691049"
+         y="111.13976"
+         id="tspan4341">From centre: London Road, Portobello Road, Moira Terrace,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.3691049"
+         y="113.35335"
+         id="tspan6206">Inchview Terrace, Portobello High Street</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="5.3691049"
+         y="115.56693"
+         id="tspan4343" /></text>
+    <path
+       style="fill:none;stroke:#c13ace;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5.2916666,104.51041 H 55.517"
+       id="path1311-8-5-9-04"
        sodipodi:nodetypes="cc" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -177.55432,58.296289 2.64584,2.645833"
-       id="path1011-3-3"
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 5.2916666,103.18749 v 2.64584"
+       id="path1664-4-7-2-2" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 55.5625,103.18749 v 2.64584"
+       id="path1666-5-0-7-97" />
+    <path
+       style="fill:none;stroke:#910046;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.2916666,80.721249 H 46.302083"
+       id="path1311-8-5-9-0"
        sodipodi:nodetypes="cc" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -53.200139,87.400456 -2.645837,2.645833"
-       id="path2065" />
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 5.2916666,79.398332 v 2.645834"
+       id="path1664-4-7-2-3" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -45.262643,137.67129 h -2.645834"
-       id="path6674" />
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 46.328541,79.398332 v 2.645834"
+       id="path1666-5-0-7-9" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -16.20802,132.40327 h -2.645834"
-       id="path6674-5" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -16.208021,150.9241 h -2.645834"
-       id="path6674-5-1" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -16.208021,119.1741 h -2.645834"
-       id="path6674-5-7" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-21.39929"
-       y="48.067238"
-       id="text3259-3-3-4"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-9-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="-21.39929"
-         y="48.067238">PDSA</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-10.983912"
-       y="108.44208"
-       id="text19055-7-1-4-3-7-0-6-1"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-10.983912"
-         y="108.44208">Shelter Southside</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-11.094268"
-       y="100.61494"
-       id="text19055-7-1-4-3-7-0-6-1-8"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7-8-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-11.094268"
-         y="100.61494">Shelter</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-11.131103"
-       y="92.53054"
-       id="text19055-7-1-4-3-7-0-6-1-8-2"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7-8-0-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-11.131103"
-         y="92.53054">Cancer Research</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-10.903659"
-       y="116.81171"
-       id="text19055-7-1-4-3-7-0-6-1-8-2-6"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7-8-0-4-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-10.903659"
-         y="116.81171">Cancer Research</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-10.849544"
-       y="143.0435"
-       id="text19055-7-1-4-3-7-0-6-1-8-2-6-2"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7-8-0-4-9-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-10.849544"
-         y="143.0435">Salvation Army</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-10.910823"
-       y="84.721748"
-       id="text19055-7-1-4-3-7-0-6-1-8-2-1"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7-8-0-4-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-10.910823"
-         y="84.721748">Oxfam</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-10.855788"
-       y="76.729218"
-       id="text19055-7-1-4-3-7-0-6-1-8-2-1-6"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7-8-0-4-0-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-10.855788"
-         y="76.729218">Oxfam Books</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-10.580333"
-       y="68.718338"
-       id="text19055-7-1-4-3-7-0-6-1-8-2-1-6-7"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7-8-0-4-0-5-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-10.580333"
-         y="68.718338">Save the Children</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-11.094996"
-       y="61.093277"
-       id="text19055-7-1-4-3-7-0-6-1-8-2-1-6-7-9"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7-8-0-4-0-5-5-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-11.094996"
-         y="61.093277">Barnardo's</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="-11.04906"
-       y="52.96294"
-       id="text19055-7-1-4-3-7-0-6-1-8-2-1-6-7-9-2"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-1-5-7-6-5-7-8-0-4-0-5-5-2-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="-11.04906"
-         y="52.96294">British Heart Foundation</tspan></text>
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -13.562188,105.94494 h -2.645834"
-       id="path6674-5-8" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -13.562187,98.007436 h -2.645834"
-       id="path6674-5-8-1" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -13.562188,113.88243 h -2.645834"
-       id="path6674-5-8-1-6" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -13.562188,140.34077 h -2.645834"
-       id="path6674-5-8-1-6-7" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -13.562187,90.069936 h -2.645834"
-       id="path6674-5-8-1-2" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -13.562187,82.132436 h -2.645834"
-       id="path6674-5-8-1-2-6" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -13.562188,74.194936 h -2.645834"
-       id="path6674-5-8-1-2-6-6" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -13.562188,66.257436 h -2.645834"
-       id="path6674-5-8-1-2-6-6-1" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -13.562187,58.319936 h -2.645834"
-       id="path6674-5-8-1-2-6-6-1-6" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -13.562188,50.382436 h -2.645834"
-       id="path6674-5-8-1-2-6-6-1-6-5" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#910046;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -16.20802,45.090769 h -2.645834"
-       id="path6674-5-8-1-2-6-6-1-6-5-2" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -92.887649,58.296287 -5.29166,2e-6"
-       id="path5548"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5875, 0.529167;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 22.014,64.846499 36.29625,64.84625"
+       id="path1386"
        sodipodi:nodetypes="cc" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -92.887649,84.754622 h -2.64583"
-       id="path5548-1" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 37.041666,5.2916666 V 7.9374999"
+       id="path1296" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M -82.353854,47.736603 H -92.937188"
-       id="path5548-1-7"
-       sodipodi:nodetypes="cc" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 47.625,5.2916666 V 7.9374999"
+       id="path1296-8" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -100.82515,113.85879 c 2.645841,2.64583 2.645841,2.64583 2.645841,2.64583"
-       id="path3707" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 26.458333,5.2916666 V 7.9374999"
+       id="path1298" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -116.70016,129.73379 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
-       id="path3707-4" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.875,5.2916666 V 7.9374999"
+       id="path1300" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -108.76265,116.50462 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
-       id="path3707-6" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -116.70016,124.44212 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
-       id="path3707-6-4" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -127.28349,135.02545 c 2.64584,2.64584 2.64584,2.64584 2.64584,2.64584"
-       id="path3707-6-4-8" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -132.57516,145.60879 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
-       id="path3707-6-4-8-1-0" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -140.51266,153.54629 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
-       id="path3707-6-4-8-1-0-7" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -148.45016,161.48378 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
-       id="path3707-6-4-8-1-0-7-2" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -159.08302,166.7991 5.3412,5.26801"
-       id="path3707-6-4-8-1-0-7-2-8"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -167.02052,174.7366 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
-       id="path3707-6-4-8-1-0-7-2-8-8" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -174.95802,182.6741 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
-       id="path3707-6-4-8-1-0-7-2-8-8-9" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -182.89553,190.6116 c 2.64584,2.64583 2.64584,2.64583 2.64584,2.64583"
-       id="path3707-6-4-8-1-0-7-2-8-8-9-9" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00927;stroke-opacity:1"
-       id="path1254-7"
-       cx="-92.88765"
-       cy="37.129623"
-       rx="2.6703639"
-       ry="2.6703641" />
-    <path
-       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       d="m -116.70016,129.73379 -71.48703,71.46114"
-       id="path5944"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#53aeff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -238.44182,13.308789 v 2.645833"
-       id="path6153-8" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#53aeff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -264.90015,26.537953 h 5.29167"
-       id="path2697" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 81.67114,-29.000769 -5.291669,5.291666"
-       id="path4324-0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 44.629474,-60.750769 34.395833,34.395833"
-       id="path10525"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="49.932808"
-       y="-63.317898"
-       id="text19055-7-1-4-3-7-0-6-0"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="49.932808"
-         y="-63.317898"
-         id="tspan6098">Pregnancy Counselling &amp; Care</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
-       x="69.223129"
-       y="-47.169819"
-       id="text19055-7-1-4-3-7-0-6-0-7"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="69.223129"
-         y="-47.169819"
-         id="tspan6098-1">Cancer Research</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="69.223129"
-         y="-40.086346"
-         id="tspan8225">British Heart Foundation</tspan></text>
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 55.107018,-44.824867 2.768294,-2.68853"
-       id="path3302"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 41.98364,-58.104936 5.291667,-5.291666"
-       id="path3470" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-172.28653"
-       y="16.144779"
-       id="text3259-6-2-2-0-1-2-1-5"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-172.28653"
-         y="16.144779"
-         id="tspan2779-7-4">Marie Curie</tspan></text>
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#53aeff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M -174.94182,10.662954 V 15.95462"
-       id="path2523" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#53aeff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -201.40015,13.308789 v 2.645833"
-       id="path6153" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -98.228851,-42.22173 2.64583,-2.645834"
-       id="path1508" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -90.291354,-34.284231 2.64583,-2.645834"
-       id="path1508-0" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -122.0447,-66.040739 2.64583,-2.64584"
-       id="path1508-4" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -129.97886,-73.971731 2.64583,-2.64584"
-       id="path1508-4-4" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -129.9822,-68.686579 2.64583,-2.64583"
-       id="path1508-4-7" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -137.91636,-81.909231 58.044431,58.041392 a 9.5810554,9.5810554 67.49925 0 1 2.806404,6.775007 v 33.072917"
-       id="path1336"
-       sodipodi:nodetypes="ccc"
-       inkscape:path-effect="#path-effect1342"
-       inkscape:original-d="m -137.91636,-81.909231 60.850835,60.847649 v 37.041667" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -140.56219,-79.263397 5.29167,-5.29166"
-       id="path1508-4-7-9"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -116.75304,-55.457415 5.29166,-5.291664"
-       id="path1508-5"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-92.808235"
-       y="-45.006367"
-       id="text3259"><tspan
-         sodipodi:role="line"
-         id="tspan3257"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-92.808235"
-         y="-45.006367">Barnardo's</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-85.13533"
-       y="-37.33345"
-       id="text3259-8"><tspan
-         sodipodi:role="line"
-         id="tspan3257-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-85.13533"
-         y="-37.33345">DEBRA</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-63.901703"
-       y="-34.328823"
-       id="text3259-73"><tspan
-         sodipodi:role="line"
-         id="tspan3257-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-63.901703"
-         y="-34.328823">The Bethany Shop<tspan
-   style="font-size:65%;baseline-shift:super"
-   id="tspan2438">1</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-100.77821"
-       y="-53.166283"
-       id="text3259-6"><tspan
-         sodipodi:role="line"
-         id="tspan3257-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-100.77821"
-         y="-53.166283">Cancer Research</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-108.89407"
-       y="-60.688416"
-       id="text3259-6-2"><tspan
-         sodipodi:role="line"
-         id="tspan3257-4-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-108.89407"
-         y="-60.688416">British Red Cross</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-116.91808"
-       y="-68.745239"
-       id="text3259-6-2-2"><tspan
-         sodipodi:role="line"
-         id="tspan3257-4-2-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-116.91808"
-         y="-68.745239">Oxfam Music</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-124.90878"
-       y="-76.883598"
-       id="text3259-6-2-2-7"><tspan
-         sodipodi:role="line"
-         id="tspan3257-4-2-7-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-124.90878"
-         y="-76.883598">Shelter Books</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-132.79121"
-       y="-84.705147"
-       id="text3259-6-2-2-0"><tspan
-         sodipodi:role="line"
-         id="tspan3257-4-2-7-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-132.79121"
-         y="-84.705147">Shelter</tspan></text>
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -103.52386,-52.811583 -5.29167,5.291668"
-       id="path7632"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-111.5313"
-       y="-44.632446"
-       id="text19055"><tspan
-         sodipodi:role="line"
-         id="tspan19053"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-111.5313"
-         y="-44.632446">Oxfam Books</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-120.41075"
-       y="-53.165291"
-       id="text19055-7"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-120.41075"
-         y="-53.165291">British Heart Foundation</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="-132.46786"
-       y="-66.306435"
-       id="text19055-7-0"><tspan
-         sodipodi:role="line"
-         id="tspan19053-7-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="-132.46786"
-         y="-66.306435">Chest Heart &amp; Stroke Scotland</tspan></text>
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -77.065525,15.980085 v -33.072917 a 9.5814075,9.5814075 112.50001 0 1 2.806331,-6.77508 l 7.777005,-7.777002"
-       id="path2121"
-       sodipodi:nodetypes="ccc"
-       inkscape:path-effect="#path-effect1340"
-       inkscape:original-d="m -77.065525,15.980085 v -37.041667 l 10.583336,-10.583332" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00927;stroke-opacity:1"
-       id="path1254-7-1-8"
-       cx="-77.01265"
-       cy="15.962955"
-       rx="2.6703639"
-       ry="2.6703641" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ea9b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -69.128025,-34.290749 c 5.291666,5.291667 5.291666,5.291667 5.291666,5.291667"
-       id="path5330" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="71.097023"
-       y="11.659581"
-       id="text3259-3-9"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="71.097023"
-         y="11.659581">Barnardo's</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="47.253983"
-       y="5.3757267"
-       id="text3259-3-9-4"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-3-63"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="47.253983"
-         y="5.3757267">Lothian Cat Rescue<tspan
-   style="font-size:65%;text-align:center;baseline-shift:super;text-anchor:middle"
-   id="tspan16012">2</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="84.656914"
-       y="25.616352"
-       id="text3259-3-9-5"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-3-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="84.656914"
-         y="25.616352">The Salvation Army</tspan></text>
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 71.104479,15.986603 V 13.340769"
-       id="path2174" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 47.291979,15.986603 V 8.0491026"
-       id="path2174-32"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 84.333646,18.632436 V 15.986603"
-       id="path2174-3" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="123.65745"
-       y="55.556911"
-       id="text3259-3-02"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="123.65745"
-         y="55.556911">Live Care Give</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="113.06118"
-       y="45.381802"
-       id="text3259-3-9-5-0"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-3-6-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="113.06118"
-         y="45.381802">The Salvation Army</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="113.15472"
-       y="55.629704"
-       id="text3259-3-9-5-0-5"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-3-6-1-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;stroke-width:0.264583"
-         x="113.15472"
-         y="55.629704">St Columba's Hospice</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="154.76505"
-       y="68.811333"
-       id="text3259-3-9-5-6"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-3-6-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="154.76505"
-         y="68.811333">British Heart Foundation</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="124.1554"
-       y="39.757599"
-       id="text3259-3-9-5-6-3"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-3-6-9-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="124.1554"
-         y="39.757599">Marie Curie</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="123.72555"
-       y="81.954071"
-       id="text3259-3-9-5-6-4"><tspan
-         sodipodi:role="line"
-         id="tspan3257-1-3-6-9-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.264583"
-         x="123.72555"
-         y="81.954071">Cancer Research</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
-       x="113.32637"
-       y="34.635517"
-       id="text19055-4-5-1"><tspan
-         sodipodi:role="line"
-         id="tspan19053-2-4-35"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
-         x="113.32637"
-         y="34.635517">Chest Heart &amp; Stroke Scotland</tspan></text>
-    <path
-       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       d="M 4.9586452,15.986603 114.7078,15.9866 a 3.9687505,3.9687505 44.999995 0 1 3.96875,3.96875 l 10e-6,59.531253"
-       id="path7353"
-       sodipodi:nodetypes="ccc"
-       inkscape:path-effect="#path-effect4492"
-       inkscape:original-d="m 4.9586452,15.986603 113.7179048,-3e-6 10e-6,63.500003" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 118.67655,26.569933 c 2.64583,0 2.64583,0 2.64583,0"
-       id="path1164" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 118.67656,37.153269 c 2.64584,0 2.64584,0 2.64584,0"
-       id="path1164-6" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 118.67656,66.257436 c 2.64583,0 2.64583,0 2.64583,0"
-       id="path1164-6-37" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 116.03072,42.444936 c 2.64583,0 2.64583,0 2.64583,0"
-       id="path1164-6-9" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 116.03072,53.028269 h 5.29167"
-       id="path1164-6-9-4"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 116.03073,79.486603 h 5.29167"
-       id="path1164-6-9-4-5"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 116.03073,31.861603 c 2.64583,0 2.64583,0 2.64583,0"
-       id="path1164-6-3" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#008700;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 65.79614,-44.875769 7.7126989,13.180919 a 9.5845309,9.5845309 157.5066 0 1 -6.7757264,2.805684 l -27.7812605,-3e-6"
-       id="path5205"
-       sodipodi:nodetypes="ccc"
-       inkscape:path-effect="#path-effect5601"
-       inkscape:original-d="M 65.79614,-44.875769 4.9057225,15.986603 -26.844288,15.9866" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00927;stroke-opacity:1"
-       id="path1254"
-       cx="-26.741806"
-       cy="15.962958"
-       rx="2.6703639"
-       ry="2.6703641" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00927;stroke-opacity:1"
-       id="path1254-3"
-       cx="4.9252987"
-       cy="15.97701"
-       rx="2.6703639"
-       ry="2.6703641" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#c13ace;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 44.646146,8.0491026 h 5.291666"
-       id="path6512" />
-    <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000b9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -82.353854,45.090769 c 0,5.291667 0,5.291667 0,5.291667"
-       id="path1884" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="56.583614"
-       y="201.14323"
-       id="text6073"><tspan
-         sodipodi:role="line"
-         id="tspan6071"
-         style="font-size:4.93889px;stroke-width:0.264583"
-         x="56.583614"
-         y="201.14323">1. Turn right off Kerr Street onto Hamilton Place</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.93889px;stroke-width:0.264583"
-         x="56.583614"
-         y="207.31685"
-         id="tspan10123">2. Turn left off London Road onto Easter Road</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.93889px;stroke-width:0.264583"
-         x="56.583614"
-         y="213.49046"
-         id="tspan1901">3. Turn left off Lothian road onto Bread Street</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.93889px;stroke-width:0.264583"
-         x="56.583614"
-         y="219.66408"
-         id="tspan7429">github.com/trundles-bot/edinburgh-charity-shop-map</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-49.655567"
-       y="-100.52599"
-       id="text10924"><tspan
-         sodipodi:role="line"
-         id="tspan10922"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-49.655567"
-         y="-100.52599">Edinburgh Charity Shop Map</tspan></text>
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 5.2916666,5.2916666 V 7.9374999 H 58.208333 V 5.2916666"
+       id="path1028" />
   </g>
 </svg>
